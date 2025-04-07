@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practical5.iml" filepath="$PROJECT_DIR$/Practical5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q2_minimum3/Q2_minimum3.iml" filepath="$PROJECT_DIR$/Q2_minimum3/Q2_minimum3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q3_perfectNumbers/Q3_perfectNumbers.iml" filepath="$PROJECT_DIR$/Q3_perfectNumbers/Q3_perfectNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q4_studentAverage/Q4_studentAverage.iml" filepath="$PROJECT_DIR$/Q4_studentAverage/Q4_studentAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q5_the12DaysOfChristmas/Q5_the12DaysOfChristmas.iml" filepath="$PROJECT_DIR$/Q5_the12DaysOfChristmas/Q5_the12DaysOfChristmas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SquareofAsterisks/SquareofAsterisks.iml" filepath="$PROJECT_DIR$/SquareofAsterisks/SquareofAsterisks.iml" />
+    </modules>
+  </component>
+</project>
